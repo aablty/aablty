@@ -20,8 +20,6 @@
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
       <br>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-      <br>
-      <img src="https://img.shields.io/badge/Aiogram-2C2D72?style=for-the-badge&logo=telegram&logoColor=white">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
