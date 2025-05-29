@@ -44,7 +44,7 @@
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ablekz&show_icons=true&theme=custom&bg_color=212830&title_color=8BB7DB&text_color=D1D5DA&icon_color=8BB7DB&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aablty&show_icons=true&theme=custom&bg_color=212830&title_color=8BB7DB&text_color=D1D5DA&icon_color=8BB7DB&hide_title=true)
 
 
 ### Get in Touch
