@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/sidebar.jpg" width="33%" height="100%" align="right" />
+  <img src="assets/sidebar.jpg" width="30%" height="100%" align="right" />
 
 ![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&color=BBF980&vCenter=true&multiline=true&width=290&lines=Hello%2C+I'm+aablty)
 
