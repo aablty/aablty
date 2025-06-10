@@ -1,11 +1,7 @@
 <div align="center">
-<!--   banner -->
-  <img src="https://github.com/aablty/aablty/blob/main/assets/banner1.png" width="100%" />
-  
-<!--   sidebar -->
-<!-- <img src="https://github.com/ablekz/ablekz/blob/main/assets/sidebar.png" width="33%" align="right" /> -->
+  <img src="assets/sidebar.jpg" width="33%" height="100%" align="right" />
 
-![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&color=9BC0EC&vCenter=true&multiline=true&width=350&lines=Hello%2C+I'm+Nursultan)
+![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&color=BBF980&vCenter=true&multiline=true&width=350&lines=Hello%2C+I'm+aablty)
 
 **`💻 Beginner Full-Stack Dev` | `🎮 Pixel Warrior` | `🏋️‍♂️ Gym Rat`<br>💡 Passionate about coding and constantly expanding my skills. <br>👾 Feel free to get in touch!**
 
@@ -48,8 +44,7 @@
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aablty&show_icons=true&theme=custom&bg_color=212830&title_color=8BB7DB&text_color=D1D5DA&icon_color=8BB7DB&hide_title=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aablty&show_icons=true&theme=custom&bg_color=212830&title_color=BBF980&text_color=D1D5DA&icon_color=BBF980&hide_title=true)
 
 ### Get in Touch
 
