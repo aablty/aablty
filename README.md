@@ -1,5 +1,9 @@
 <div align="center">
-<img src="https://github.com/ablekz/ablekz/blob/main/assets/sidebar.png" width="33%" align="right" />
+<!--   banner -->
+  <img src="https://github.com/aablty/aablty/blob/main/assets/banner1.png" width="100%" />
+  
+<!--   sidebar -->
+<!-- <img src="https://github.com/ablekz/ablekz/blob/main/assets/sidebar.png" width="33%" align="right" /> -->
 
 ![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&color=9BC0EC&vCenter=true&multiline=true&width=350&lines=Hello%2C+I'm+Nursultan)
 
