@@ -46,6 +46,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aablty)
 [![Email](https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:aablty@proton.me)
 [![Telegram](https://img.shields.io/badge/Telegram-121212?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=cat&logoColor=white)](https://aablty.github.io)
 
 </div>
