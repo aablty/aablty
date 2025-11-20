@@ -37,14 +37,14 @@
 
 ### GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=aablty&show_icons=true&card_width=400&theme=custom&bg_color=212830&title_color=BBF980&text_color=D1D5DA&icon_color=BBF980&hide_title=true" />
-  <img src="https://streak-stats.demolab.com/?user=aablty&theme=custom&background=212830&ring=BBF980&fire=BBF980&currStreakNum=D1D5DA&currStreakLabel=D1D5DA&sideNums=D1D5DA&sideLabels=D1D5DA&dates=A0A3A6" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shchrki&show_icons=true&card_width=400&theme=custom&bg_color=212830&title_color=BBF980&text_color=D1D5DA&icon_color=BBF980&hide_title=true" />
+  <img src="https://streak-stats.demolab.com/?user=shchrki&theme=custom&background=212830&ring=BBF980&fire=BBF980&currStreakNum=D1D5DA&currStreakLabel=D1D5DA&sideNums=D1D5DA&sideLabels=D1D5DA&dates=A0A3A6" width="420"/>
 
 
 ### Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aablty)
-[![Email](https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:aablty@proton.me)
-[![Telegram](https://img.shields.io/badge/Telegram-121212?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shchrki)
+[![Email](https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:shchrki@proton.me)
+[![Telegram](https://img.shields.io/badge/Telegram-121212?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shchrki)
 
 </div>
