@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&color=BBF980&vCenter=true&multiline=true&width=290&lines=Hello%2C+I'm+shchrki)
+![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2800&color=BBF980&vCenter=true&multiline=true&width=290&lines=Hello%2C+I'm+shchrki)
 
 **`💻 Full-Stack Dev` | `🎮 Pixel Warrior` | `🍕 C.C. fan`<br>💡 Passionate about coding and constantly expanding my skills. <br>👾 Feel free to get in touch!**
 
