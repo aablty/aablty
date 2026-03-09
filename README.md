@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2800&color=BBF980&vCenter=true&multiline=true&width=340&lines=hello+there)
+![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2800&color=BBF980&vCenter=true&multiline=true&width=190&lines=hello+there)
 
 **`💻 Full-Stack Dev` | `🎮 Pixel Warrior` | `🍕 C.C. fan`<br>💡 Passionate about coding and constantly expanding my skills. <br>👾 Feel free to get in touch!**
 
@@ -32,10 +32,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" width="32" />
 </p>
-
-### GitHub Stats
-
-  <img src="https://github-readme-stats.vercel.app/api?username=aablty&show_icons=true&card_width=400&theme=custom&bg_color=212830&title_color=BBF980&text_color=D1D5DA&icon_color=BBF980&hide_title=true" />
-  <img src="https://streak-stats.demolab.com/?user=aablty&theme=custom&background=212830&ring=BBF980&fire=BBF980&currStreakNum=D1D5DA&currStreakLabel=D1D5DA&sideNums=D1D5DA&sideLabels=D1D5DA&dates=A0A3A6" width="420"/>
 
 </div>
